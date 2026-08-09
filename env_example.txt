@@ -1,0 +1,145 @@
+# ============================================================================
+# Smart AI Campus Management System - Environment Configuration
+# Developed by Mohammad Wasiq
+# ============================================================================
+
+# Application
+NODE_ENV=development
+APP_NAME=SmartCampusERP
+APP_PORT=4000
+APP_URL=http://localhost:4000
+CORS_ORIGIN=http://localhost:3000
+
+# Frontend
+NEXT_PUBLIC_APP_URL=http://localhost:3000
+NEXT_PUBLIC_API_URL=http://localhost:4000/api/v1
+NEXT_PUBLIC_WS_URL=http://localhost:4000
+NEXT_PUBLIC_APP_NAME=Smart Campus ERP
+NEXT_PUBLIC_DEVELOPER=Mohammad Wasiq
+
+# Database
+DATABASE_URL=postgresql://postgres:postgres@localhost:5432/smart_campus_erp
+DATABASE_HOST=localhost
+DATABASE_PORT=5432
+DATABASE_NAME=smart_campus_erp
+DATABASE_USER=postgres
+DATABASE_PASSWORD=postgres
+DATABASE_SSL=false
+
+# Redis
+REDIS_HOST=localhost
+REDIS_PORT=6379
+REDIS_PASSWORD=
+REDIS_DB=0
+
+# Elasticsearch
+ELASTICSEARCH_HOST=http://localhost:9200
+ELASTICSEARCH_USERNAME=elastic
+ELASTICSEARCH_PASSWORD=elastic
+
+# JWT
+JWT_SECRET=super-secret-jwt-key-change-in-production-2026
+JWT_REFRESH_SECRET=super-secret-refresh-key-change-in-production-2026
+JWT_EXPIRATION=15m
+JWT_REFRESH_EXPIRATION=7d
+JWT_ISSUER=SmartCampusERP
+
+# OAuth
+OAUTH_GOOGLE_CLIENT_ID=
+OAUTH_GOOGLE_CLIENT_SECRET=
+OAUTH_GOOGLE_CALLBACK_URL=http://localhost:4000/api/v1/auth/google/callback
+OAUTH_MICROSOFT_CLIENT_ID=
+OAUTH_MICROSOFT_CLIENT_SECRET=
+OAUTH_MICROSOFT_CALLBACK_URL=http://localhost:4000/api/v1/auth/microsoft/callback
+
+# 2FA
+TWO_FACTOR_APP_NAME=SmartCampusERP
+
+# OpenAI
+OPENAI_API_KEY=
+OPENAI_ORGANIZATION=
+OPENAI_MODEL=gpt-4-turbo-preview
+OPENAI_EMBEDDING_MODEL=text-embedding-3-small
+OPENAI_MAX_TOKENS=4096
+OPENAI_TEMPERATURE=0.7
+
+# LangChain
+LANGCHAIN_API_KEY=
+LANGCHAIN_PROJECT=smart-campus-erp
+LANGCHAIN_TRACING_V2=true
+
+# Pinecone (Vector Database)
+PINECONE_API_KEY=
+PINECONE_ENVIRONMENT=
+PINECONE_INDEX=smart-campus-knowledge
+
+# Cloudinary
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+
+# AWS S3
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+AWS_REGION=us-east-1
+AWS_S3_BUCKET=smart-campus-erp
+
+# SMTP
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USER=noreply@campus.edu
+SMTP_PASSWORD=
+SMTP_FROM=noreply@campus.edu
+SMTP_FROM_NAME=Smart Campus ERP
+
+# SMS
+SMS_PROVIDER=twilio
+TWILIO_ACCOUNT_SID=
+TWILIO_AUTH_TOKEN=
+TWILIO_PHONE_NUMBER=
+
+# Payment Gateway
+PAYMENT_PROVIDER=stripe
+STRIPE_PUBLISHABLE_KEY=
+STRIPE_SECRET_KEY=
+STRIPE_WEBHOOK_SECRET=
+RAZORPAY_KEY_ID=
+RAZORPAY_KEY_SECRET=
+
+# Rate Limiting
+THROTTLE_TTL=60
+THROTTLE_LIMIT=100
+
+# Redis Queue
+REDIS_QUEUE_HOST=localhost
+REDIS_QUEUE_PORT=6379
+
+# WebSocket
+WS_PORT=4001
+
+# Logging
+LOG_LEVEL=debug
+LOG_FORMAT=combined
+
+# Monitoring
+SENTRY_DSN=
+SENTRY_ENVIRONMENT=development
+
+# Feature Flags
+ENABLE_AI=true
+ENABLE_REALTIME=true
+ENABLE_2FA=false
+ENABLE_OAUTH=false
+ENABLE_PAYMENTS=true
+ENABLE_SMS=false
+
+# Backup
+BACKUP_DIR=./backups
+BACKUP_RETENTION_DAYS=30
+
+# Cache
+CACHE_TTL=300
+
+# Pagination
+DEFAULT_PAGE_SIZE=20
+MAX_PAGE_SIZE=100

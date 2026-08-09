@@ -1,0 +1,907 @@
+You are a team of world-class software architects, AI engineers, UI/UX designers, senior full-stack developers, database architects, DevOps engineers, cloud architects, QA engineers, cybersecurity experts, and technical writers.
+
+Your IQ is equivalent to a team of senior engineers from Google, Microsoft, OpenAI, Meta, Amazon, and MIT combined.
+
+Your task is to build a COMPLETE enterprise-grade application from scratch.
+
+Never simplify anything.
+
+Never generate demo code.
+
+Never generate placeholder code.
+
+Never skip features.
+
+Never say "implement later."
+
+Never use mock data except where absolutely required for demonstration.
+
+Generate production-ready code only.
+
+======================================================
+
+PROJECT TITLE
+
+Smart AI Campus Management System 2026
+AI Powered University ERP & Automation Platform
+
+Developed By:
+Mohammad Wasiq
+
+======================================================
+
+PROJECT GOAL
+
+Develop a fully functional AI-powered Smart University ERP platform capable of managing every academic, administrative, financial, communication, and campus service operation from a single intelligent platform.
+
+The application must be modern, scalable, cloud-ready, AI-first, mobile responsive, secure, modular, and enterprise-grade.
+
+The system should feel comparable to Microsoft Dynamics, SAP Education ERP, Oracle Campus Solutions, Salesforce Education Cloud, Workday Education, and modern AI SaaS platforms.
+
+======================================================
+
+PRIMARY OBJECTIVE
+
+Generate the COMPLETE application.
+
+Not UI only.
+
+Not Backend only.
+
+Generate EVERYTHING.
+
+Frontend
+
+Backend
+
+Database
+
+Authentication
+
+Authorization
+
+AI Integration
+
+REST APIs
+
+Realtime Features
+
+Admin Dashboard
+
+Student Portal
+
+Faculty Portal
+
+Guardian Portal
+
+Department Portal
+
+Super Admin Portal
+
+Microservices if appropriate
+
+Deployment Configuration
+
+Docker
+
+CI/CD
+
+Documentation
+
+Testing
+
+API Documentation
+
+Database Scripts
+
+Seed Data
+
+Everything.
+
+======================================================
+
+TECH STACK
+
+Frontend
+
+Next.js (Latest)
+
+React
+
+TypeScript
+
+TailwindCSS
+
+Shadcn UI
+
+Framer Motion
+
+React Query
+
+React Hook Form
+
+Zod
+
+Redux Toolkit
+
+PWA
+
+Responsive Design
+
+Dark Mode
+
+Accessibility
+
+Backend
+
+Node.js
+
+NestJS
+
+TypeScript
+
+REST API
+
+WebSocket
+
+Redis
+
+BullMQ
+
+JWT
+
+OAuth
+
+RBAC
+
+Cron Jobs
+
+File Upload
+
+Email Service
+
+Notification Service
+
+AI Service
+
+Database
+
+PostgreSQL
+
+Prisma ORM
+
+Redis Cache
+
+ElasticSearch
+
+Object Storage
+
+Cloudinary or S3
+
+AI
+
+OpenAI
+
+LangChain
+
+Vector Database
+
+RAG
+
+Knowledge Base
+
+Embeddings
+
+Conversation Memory
+
+Prompt Engineering
+
+Function Calling
+
+Analytics
+
+Power BI Ready
+
+Advanced Dashboard
+
+Charts
+
+Prediction
+
+Machine Learning Ready
+
+Deployment
+
+Docker
+
+Docker Compose
+
+NGINX
+
+GitHub Actions
+
+AWS Ready
+
+Azure Ready
+
+Vercel Ready
+
+DigitalOcean Ready
+
+======================================================
+
+DESIGN REQUIREMENTS
+
+Ultra Modern
+
+Glassmorphism
+
+Minimal
+
+Professional
+
+Enterprise
+
+Animated
+
+Responsive
+
+Beautiful
+
+Material + Apple Inspired
+
+Dashboard Style
+
+Dark and Light Theme
+
+Motion Effects
+
+Loading Skeletons
+
+Smooth Navigation
+
+Accessibility AA+
+
+======================================================
+
+USER ROLES
+
+Super Admin
+
+University Chancellor
+
+Vice Chancellor
+
+Registrar
+
+Finance Department
+
+Academic Office
+
+Admission Office
+
+Examination Department
+
+Library Staff
+
+Hostel Office
+
+Transport Office
+
+Training & Placement Cell
+
+Department Head
+
+Faculty
+
+Assistant Professor
+
+Lecturer
+
+Student
+
+Guardian
+
+Alumni
+
+Security Staff
+
+Maintenance Staff
+
+Reception
+
+Support Agent
+
+Guest
+
+======================================================
+
+CORE MODULES
+
+Authentication
+
+Multi Role Login
+
+Dashboard
+
+Admission Management
+
+Student Information System
+
+Faculty Management
+
+Employee Management
+
+Academic Management
+
+Curriculum Management
+
+Course Management
+
+Semester Management
+
+Attendance
+
+Timetable
+
+Exam Management
+
+Grading
+
+Transcript
+
+Certificates
+
+Fee Management
+
+Scholarships
+
+Hostel Management
+
+Transport Management
+
+Library Management
+
+Inventory
+
+Assets
+
+Procurement
+
+Research Management
+
+HR
+
+Payroll
+
+Leave Management
+
+Recruitment
+
+Document Management
+
+Digital Signature
+
+Notice Board
+
+Events
+
+Campus News
+
+Student Clubs
+
+Sports
+
+Medical Center
+
+Lost and Found
+
+Complaint Management
+
+Maintenance
+
+Service Requests
+
+Help Desk
+
+Visitor Management
+
+Guardian Portal
+
+Parent Communication
+
+Alumni Network
+
+Career Development
+
+Placement Cell
+
+Internship Portal
+
+Job Portal
+
+Training
+
+Campus Store
+
+Cafeteria
+
+Online Payments
+
+Payment Gateway
+
+Reports
+
+Analytics
+
+Settings
+
+Audit Logs
+
+======================================================
+
+AI MODULES
+
+AI Student Assistant
+
+AI Teacher Assistant
+
+AI Administrative Assistant
+
+AI Knowledge Base
+
+AI FAQ
+
+AI Smart Search
+
+AI Document Generator
+
+AI Letter Generator
+
+AI Application Generator
+
+Generate
+
+Bonafide
+
+Character Certificate
+
+Migration
+
+Transcript Request
+
+Fee Refund
+
+Scholarship
+
+Hostel
+
+Leave
+
+Financial Aid
+
+Recommendation Letter
+
+No Due
+
+Course Withdrawal
+
+Course Registration
+
+Medium Certificate
+
+AI Smart Routing
+
+Automatically send requests to the correct department.
+
+AI Scheduling
+
+Automatic timetable
+
+Exam timetable
+
+Faculty allocation
+
+Classroom allocation
+
+Conflict detection
+
+AI Recommendation Engine
+
+Learning Recommendations
+
+Weak Topic Detection
+
+Career Suggestions
+
+Placement Suggestions
+
+Internship Recommendation
+
+Course Recommendation
+
+AI Analytics
+
+Student Risk Prediction
+
+Attendance Prediction
+
+Dropout Prediction
+
+Result Prediction
+
+Department Analytics
+
+University Insights
+
+AI Chatbot
+
+Natural Conversation
+
+Voice Ready
+
+Multilingual
+
+Memory
+
+Knowledge Base
+
+RAG
+
+======================================================
+
+STUDENT FEATURES
+
+Profile
+
+Courses
+
+Attendance
+
+Assignments
+
+Exams
+
+Results
+
+Fees
+
+Library
+
+Hostel
+
+Transport
+
+Applications
+
+Certificates
+
+Chatbot
+
+Learning Assistant
+
+Progress
+
+Calendar
+
+Notifications
+
+Messaging
+
+Documents
+
+======================================================
+
+FACULTY FEATURES
+
+Attendance
+
+Marks
+
+Assignments
+
+Course Materials
+
+AI Lesson Planner
+
+Student Analytics
+
+Communication
+
+Research
+
+Meetings
+
+======================================================
+
+ADMIN FEATURES
+
+Complete ERP Control
+
+Analytics
+
+Reports
+
+Approvals
+
+Workflow
+
+Automation
+
+Department Monitoring
+
+User Management
+
+Role Management
+
+Permissions
+
+======================================================
+
+DATABASE
+
+Design a normalized production-ready PostgreSQL database.
+
+Generate
+
+ER Diagram
+
+Relations
+
+Indexes
+
+Constraints
+
+Triggers
+
+Views
+
+Stored Procedures
+
+Prisma Schema
+
+Seed Data
+
+======================================================
+
+SECURITY
+
+JWT
+
+OAuth
+
+2FA
+
+RBAC
+
+Permission Matrix
+
+Audit Logs
+
+Encryption
+
+Rate Limiting
+
+CSRF
+
+XSS
+
+SQL Injection Protection
+
+Validation
+
+Input Sanitization
+
+======================================================
+
+API
+
+Generate complete REST APIs.
+
+Swagger Documentation.
+
+Versioning.
+
+Validation.
+
+Pagination.
+
+Filtering.
+
+Sorting.
+
+Search.
+
+======================================================
+
+REALTIME
+
+Notifications
+
+Chat
+
+Live Dashboard
+
+Attendance
+
+Announcements
+
+======================================================
+
+TESTING
+
+Unit Testing
+
+Integration Testing
+
+API Testing
+
+E2E Testing
+
+Load Testing
+
+======================================================
+
+DEVOPS
+
+Docker
+
+Docker Compose
+
+CI/CD
+
+GitHub Actions
+
+NGINX
+
+Environment Variables
+
+Deployment Guide
+
+Monitoring
+
+Logging
+
+======================================================
+
+OUTPUT REQUIREMENTS
+
+You MUST generate the application as if building a real enterprise SaaS product.
+
+Do NOT summarize.
+
+Do NOT explain.
+
+Do NOT ask questions.
+
+Do NOT reduce features.
+
+Generate every file.
+
+Generate every folder.
+
+Generate every API.
+
+Generate every database table.
+
+Generate every frontend page.
+
+Generate every backend module.
+
+Generate every React component.
+
+Generate every Prisma model.
+
+Generate every DTO.
+
+Generate every controller.
+
+Generate every service.
+
+Generate every middleware.
+
+Generate every hook.
+
+Generate every utility.
+
+Generate every test.
+
+Generate every deployment file.
+
+Generate every configuration.
+
+Generate documentation.
+
+Generate README.
+
+Generate Swagger.
+
+Generate ERD.
+
+Generate architecture diagrams.
+
+Generate sequence diagrams.
+
+Generate API documentation.
+
+Generate environment variables.
+
+Generate Docker configuration.
+
+Generate CI/CD.
+
+Generate seed data.
+
+Generate AI prompts.
+
+Generate LangChain pipelines.
+
+Generate RAG implementation.
+
+Generate Vector Database implementation.
+
+Generate OpenAI integration.
+
+Generate chatbot.
+
+Generate workflow automation.
+
+Generate complete production-ready code.
+
+======================================================
+
+IMPORTANT EXECUTION RULES
+
+Because the project exceeds the maximum response size, do NOT skip features.
+
+Instead, divide the project into logical phases while maintaining continuity.
+
+Generate in this exact order:
+
+Phase 1
+Project Architecture
+Folder Structure
+Technology Decisions
+Database Design
+
+Phase 2
+Backend Foundation
+
+Phase 3
+Authentication
+
+Phase 4
+Core Modules
+
+Phase 5
+AI Modules
+
+Phase 6
+Frontend
+
+Phase 7
+Dashboards
+
+Phase 8
+Advanced Features
+
+Phase 9
+Testing
+
+Phase 10
+Deployment
+
+Phase 11
+Documentation
+
+At the end of every response, automatically continue to the next file until the entire application is completed.
+
+Never stop unless the entire project has been generated.
+
+Never regenerate previous files.
+
+Maintain consistency across all modules.
+
+Remember every previously generated file.
+
+Always produce production-ready enterprise code.
